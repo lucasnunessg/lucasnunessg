@@ -25,7 +25,8 @@
 Apaixonado por Tecnologias e tudo que envolve o mundo da programação. 💻
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnunessg&theme=blue-green&cache_seconds=600)<br><br>
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnunessg)](https://github.com/lucasnunessg/github-readme-stats)
+
 ![Follows](https://img.shields.io/github/followers/lucasnunessg.svg?style=social&label=Follow&maxAge=2592000)
 
 ## Contate-me 📱
