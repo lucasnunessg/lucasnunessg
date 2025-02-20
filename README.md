@@ -23,17 +23,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnunessg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lucas GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnunessg&layout=compact&theme=radical&hide=html,css" alt="Lucas Top Languages">
-</div>
-
----
-
----
-
 ## 🌟 Habilidades
 
 - **Backend Development**: Java, NestJS, Node.js, Express.js, APIs RESTful.
