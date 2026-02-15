@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Lucas Pacheco Nunes! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Famliaridade+com+React+NodeJs+e+NestJS;Apaixonado+por+Arquitetura+e+Escalabilidade+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Famliaridade+com+NodeJs+e+NestJS;Apaixonado+por+Arquitetura+e+Escalabilidade+🚀" />
 
 <br>
 
