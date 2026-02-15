@@ -59,9 +59,9 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasnunessg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucasnunessg&show_icons=true" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnunessg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnunessg&layout=compact" />
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lucasnunessg&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lucasnunessg" />
 
 </div>
 
